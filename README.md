@@ -1,4 +1,5 @@
 Project Description: Apotheosis will be a game similar to Slay the Spire which is a roguelike, turn based card game focused on ascending a tower of enemies and eventually reaching the summit. Cards must be earned and enemies will lead up to a boss encounter ending the game.
+
 Video Demo: https://www.youtube.com/watch?v=1fmtINX6mC8
 
 Game concept: Turn based card game
